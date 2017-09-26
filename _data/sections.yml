@@ -1,0 +1,48 @@
+default:
+  title: Watson Personal Assistant Builder
+  icon: book
+  hidden: true
+
+get-started:
+  title: Getting Started
+  icon: book
+
+programming-model:
+  title: Architecture
+  icon: wrench
+
+expertise:
+  title: Expertise
+  icon: pencil
+
+knowledge:
+  title: Knowledge and Reasoning
+  icon: code
+
+cognitive-application:
+  title: Personal Assistant application
+  icon: code
+
+cognitive-devices:
+  title: Cognitive Device
+  icon: rocket
+
+offering-lifecyle:
+  title: Offering Lifecycle
+  icon: lock
+
+get-help:
+  title: Learn
+  icon: life-ring
+
+contribute:
+  title: Contribute
+  icon: graduation-cap
+
+success-stories:
+  title: Your Success Stories & Use Cases
+  icon: trophy
+
+legal:
+  title: Legal
+  icon: book
