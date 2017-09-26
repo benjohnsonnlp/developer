@@ -1,5 +1,5 @@
 ---
-title: Terms of Use
+title: Notices
 weight: 10
 ---
 
