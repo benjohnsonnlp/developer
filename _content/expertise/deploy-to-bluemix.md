@@ -4,12 +4,12 @@ weight: 34
 ---
 This page will walk you through the next phase of building your first expertise.
 
-1. [How to run and use the "HelloWorld" boilerplate expertise hosted locally.]({{site.baseurl}}/expertise/build-expertise)
-2. [How to register and use the local running "HelloWorld" expertise with Personal Assistant Builder service.]({{site.baseurl}}/expertise/develop-locally)
+1. [How to run and use the "HelloWorld" boilerplate expertise hosted locally.]({{site.baseurl}}/developer/expertise/build-expertise)
+2. [How to register and use the local running "HelloWorld" expertise with Personal Assistant Builder service.]({{site.baseurl}}/developer/expertise/develop-locally)
 3. **How to host your "HelloWorld" expertise on Bluemix for others to use.**
 
 ### Pre-requisite
-In this phase you will use your own IBM Bluemix account.  Make sure you have completed all the Bluemix pre-requisites documented in the [setup your local development environment]({{site.baseurl}}/expertise/setup-local-dev-env/) page.
+In this phase you will use your own IBM Bluemix account.  Make sure you have completed all the Bluemix pre-requisites documented in the [setup your local development environment]({{site.baseurl}}/developer/expertise/setup-local-dev-env/) page.
 
 ### Step 1: Stop the running expertise and ngrok processes
 If your HelloWorldExpertise is still running, then control-c the process.  If you ran the "npm run start" command in the background, then find the node process and kill it.  You can use "lsof -i:10010" to easily find it. Also, if your ngrok process is still running, then control-c the process.
@@ -98,7 +98,7 @@ The JSON returned should include the following:
 
 Now that you have successfully created your first Hello World expertise you should try creating your own Expertise.  There are many example expertise developed and maintained by the Watson Personal Assistant team that you can use to start from.  These can be found at [Expertise]().  Other expertise can be found at [ConsumerIoT]() then search repositories with `expertise` in the name.
 
-> **What next?** Learn how to use your expertise in an [application]({{site.baseurl}}/cognitive-application/what-are-they/)
+> **What next?** Learn how to use your expertise in an [application]({{site.baseurl}}/developer/cognitive-application/what-are-they/)
 
 --------
-Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)
+Help [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)

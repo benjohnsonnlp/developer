@@ -13,7 +13,7 @@ weight: 10
   | Mobile Digital Bot |  Third Party | Voice & text driven | ? | ? | ? |
   | Wearables |  Third Party | touch and movement driven | ? | ? | ? |
 
-> **What next?** Learn how to [enable a device for a Consumer IOT Application]({{ site.baseurl }}/cognitive-devices/enable-devices)
+> **What next?** Learn how to [enable a device for a Consumer IOT Application]({{site.baseurl}}/developer/cognitive-devices/enable-devices)
 
 --------
-Help and [contribute]({{ site.baseurl }}/contribute/contribute-doc/)
+Help and [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)

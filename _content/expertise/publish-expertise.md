@@ -22,7 +22,7 @@ weight: 40
 
 
 
- > **What next?** Learn how to [build your expertise ]({{site.baseurl}}/expertise/build-expertise/)
+ > **What next?** Learn how to [build your expertise ]({{site.baseurl}}/developer/expertise/build-expertise/)
 
  ____
- Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)
+ Help [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)

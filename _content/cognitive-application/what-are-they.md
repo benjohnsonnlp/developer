@@ -37,11 +37,12 @@ Work is underway to support cognitive profiles.  A cognitive profile are a user'
 
 Personal Assistant applications have context.  Provides background information that further clarifies the meaning of a location, interaction or user.  The conditions around a situation, setting, location time, user and devices that are involved.  Here are some examples. Context helps reduce the number of questions a user has to answer during a session.  Context is passed in each request to the Personal Assistant Builder service.
 
-**Home**
+## Home
+
 * A user's current location or other location like a student (user) wants to go ''home''.  
 * The context for ''home'' during the school year (time) is the dorm room on campus at the university he is attending
 * The context for ''home'' during the summer and school breaks are his parents primary address and not vacation address
 
-> **What next?** [Learn how to build a personal assistant application]({{ site.baseurl }}/cognitive-application/build-applications/)
+> **What next?** [Learn how to build a personal assistant application]({{site.baseurl}}/developer/cognitive-application/build-applications/)
 
-Help [contribute]({{ site.baseurl }}/contribute/contribute-doc/)
+Help [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)

@@ -66,4 +66,4 @@ You might see some "npm ERR!" messages but they are harmless.  As long as you se
 Go to that address to see the documentation site running locally . Do a browser refresh to see any edits.
 
 --------
-Help and [contribute]({{site.baseurl}}/contribute/contribute-doc/)
+Help and [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)

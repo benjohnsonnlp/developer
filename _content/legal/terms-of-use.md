@@ -88,4 +88,4 @@ Except as expressly granted in this permission, no other permissions, licenses o
 IBM MAKES NO GUARANTEE ABOUT THE CONTENT OF THESE PUBLICATIONS. THE PUBLICATIONS ARE PROVIDED "AS-IS" AND WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT, AND FITNESS FOR A PARTICULAR PURPOSE.
 
 ____
-Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)
+Help [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)

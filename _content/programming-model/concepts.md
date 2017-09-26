@@ -4,7 +4,7 @@ weight: 20
 ---
 
 ## Watson Personal Assistant Builder architecture
-![Watson Personal Assistant Builder ]({{ site.baseurl }}/images/markitecture.png)
+![Watson Personal Assistant Builder ]({{site.baseurl}}/developer/images/markitecture.png)
 
 ## Natural language artifacts
 The Watson Personal Assistant Builder uses the same natural language artifacts as the Watson services. To learn more, see the following references:
@@ -15,7 +15,7 @@ The Watson Personal Assistant Builder uses the same natural language artifacts a
 *  See [Dialogs](https://www.ibm.com/watson/developercloud/doc/conversation/dialog-build.html)
 
 ## Client applications
-A collection of user utterances or other types of interactions with a user are collated to create a client application.  Client applications often run on a device.  WPA Builder includes [client applications]({{ site.baseurl }}/cognitive-application/client-application-integrations/) that you can readily reuse.
+A collection of user utterances or other types of interactions with a user are collated to create a client application.  Client applications often run on a device.  WPA Builder includes [client applications]({{site.baseurl}}/developer/cognitive-application/client-application-integrations/) that you can readily reuse.
 
 ### Devices
 A device is a mechanical and or electronic equipment that is designed for a specific purpose, such as:
@@ -53,7 +53,7 @@ Watson Personal Assistant applications automate a task without requiring the use
 * Query API you can create, delete or query, or update Watson Personal Assistant objects.
 * Rules API to determine when to trigger expertise based on state attribute changes.  
 
-By default, IBM will provide a set of real world objects you can start with.  The Knowledge and Reasoning service is a Watson Personal Assistant Builder service.  Learn more about the [Knowledge and Reasoning service]({{ site.baseurl }}/knowledge/proactive/) [here]()   
+By default, IBM will provide a set of real world objects you can start with.  The Knowledge and Reasoning service is a Watson Personal Assistant Builder service.  Learn more about the [Knowledge and Reasoning service]({{site.baseurl}}/developer/knowledge/proactive/) [here]()   
 
 ### Objects
 An object is a data structure that represents an object or concept in the physical world.  A user can interact directly with an object or through a command and control using the Voice service, Knowledge and Reasoning service objects, Personal Assistant Builder service, and corresponding expertise that are registered with the Personal Assistant Builder service. Examples of object interactions include:
@@ -120,7 +120,7 @@ User ->  Device/Object -> Device/Object Gateway -> Voice service -> Personal Ass
 ### An example interaction sequence ( with proactiveness )
 To be added.
 
-**What next?** [Learn how to create your first expertise]({{ site.baseurl }}/expertise/what-are-they/)
+**What next?** [Learn how to create your first expertise]({{site.baseurl}}/developer/expertise/what-are-they/)
 
 --------
-Help and [contribute]({{ site.baseurl }}/contribute/contribute-doc/)
+Help and [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)

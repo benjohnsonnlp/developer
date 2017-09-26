@@ -27,6 +27,6 @@ See this [reference]() to use the Kik Bot client application integration.
 ## Create a new client application integration
 To be described.
 
-> **What next?** Learn how to extend your personal assistant with [other service integrations]({{ site.baseurl }}/cognitive-application/integrating-systems)
+> **What next?** Learn how to extend your personal assistant with [other service integrations]({{site.baseurl}}/developer/cognitive-application/integrating-systems)
 
-Help [contribute]({{ site.baseurl }}/contribute/contribute-doc/)
+Help [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)

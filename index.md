@@ -42,4 +42,4 @@ title: Developer Docs for WPA Builder
 </table>
 </div>
 
-[Submit Issue](https://github.com/Watson-Personal-Assistant/developer/issues) | [Help Contribute]({{ site.baseurl }}/contribute/contribute-doc/) | [Sign Up]() | [Terms of Use]({{site.baseurl}}/legal/terms-of-use/)
+[Submit Issue](https://github.com/Watson-Personal-Assistant/developer/issues) | [Help Contribute]({{site.baseurl}}/developer/contribute/contribute-doc/) | [Sign Up]() | [Terms of Use]({{site.baseurl}}/developer/legal/terms-of-use/)

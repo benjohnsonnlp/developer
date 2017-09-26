@@ -21,7 +21,7 @@ TBD
 ## How and why to be notified of Rules
 TBD
 
- > **What next?** Learn how to [build your first rule]({{site.baseurl}}/knowledge/buildrules/)  
+ > **What next?** Learn how to [build your first rule]({{site.baseurl}}/developer/knowledge/buildrules/)  
 
 ____
-Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)
+Help [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)

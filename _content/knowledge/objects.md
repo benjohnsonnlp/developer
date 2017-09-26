@@ -19,7 +19,7 @@ TBD
 ## How and why to define an object's state
 TBD
 
- > **What next?** Learn how to [Rules]({{site.baseurl}}/knowledge/rules/)
+ > **What next?** Learn how to [Rules]({{site.baseurl}}/developer/knowledge/rules/)
 
 ____
-Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)
+Help [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)

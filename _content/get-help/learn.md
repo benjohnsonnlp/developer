@@ -8,7 +8,7 @@ title: Get help
   * [User documentation](https://watson-personal-assistant.github.io/developer/)
   * Submitting an [issue](https://github.com/Watson-Personal-Assistant/developer/issues)
 
-> **What next?** Share your [knowledge]({{ site.baseurl }}/contribute/contribute-doc/) with others
+> **What next?** Share your [knowledge]({{site.baseurl}}/developer/contribute/contribute-doc/) with others
 
 --------
-Help and [contribute]({{ site.baseurl }}/contribute/contribute-doc/)
+Help and [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)

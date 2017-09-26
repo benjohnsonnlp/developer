@@ -98,7 +98,7 @@ Work is underway to support:
 * TripAdvisor
 * Other third parties coming soon.
 
-> **What next?** [Learn how devices interact with your Personal Assistant application]({{site.baseurl}}/cognitive-devices/what-are-they/)
+> **What next?** [Learn how devices interact with your Personal Assistant application]({{site.baseurl}}/developer/cognitive-devices/what-are-they/)
 
 --------
-Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)
+Help [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)

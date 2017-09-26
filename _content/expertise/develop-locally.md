@@ -4,12 +4,12 @@ weight: 30
 ---
 This page will walk you through phase 2 of building your first expertise.
 
-1. [How to run and use the "HelloWorld" boilerplate expertise hosted locally.]({{site.baseurl}}/expertise/build-expertise)
+1. [How to run and use the "HelloWorld" boilerplate expertise hosted locally.]({{site.baseurl}}/developer/expertise/build-expertise)
 2. **How to register your expertise with the Personal Assistant Builder service and use the local running "HelloWorld" expertise**
 3. How to host your "HelloWorld" expertise on Bluemix for others to use.
 
 ### Pre-requisite
-In the steps below you are required to have a Personal Assistant API Key. See [Get Access]({{site.baseurl}}/get-started/get-api-key/) for how to get your key.  Then in the steps below replace **paste-your-api-key-here** with your API key you receive.
+In the steps below you are required to have a Personal Assistant API Key. See [Get Access]({{site.baseurl}}/developer/get-started/get-api-key/) for how to get your key.  Then in the steps below replace **paste-your-api-key-here** with your API key you receive.
 
 ### Step 1: Create an expertise collection in the Personal Assistant
 Use the Personal Assistant Builder service **/expertiseCollection** API to create a expertise collection that your expertise will be added to using your API Key and Personal Assistant Builder service Bluemix hosted URL.
@@ -70,7 +70,7 @@ The JSON returned should include the following:
 },
 ```
 
-> **What next?** Learn how to [deploy your expertise to Bluemix]({{site.baseurl}}/expertise/deploy-to-bluemix/)
+> **What next?** Learn how to [deploy your expertise to Bluemix]({{site.baseurl}}/developer/expertise/deploy-to-bluemix/)
 
 --------
-Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)
+Help [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)
