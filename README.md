@@ -1,7 +1,7 @@
 # Developer Learning Experience
 This repository is for creating the key documentation assets for the Consumer IoT developer learning experience.  
 This includes:
-* [Documentation]({{site.baseurl}})
+* [Documentation](https://watson-personal-assistant.github.io/developer)
 * Tutorials for getting started
 * Samples
 * Code snippets
@@ -9,7 +9,7 @@ This includes:
 
 # Contributing
 ## Documentation
-Simply go to the [documentation page]({{site.baseurl}}) documentation page and click on the edit icon at the top of the page.  If you aren't a member of the repo do a pull request for the page you want to fix or add.
+Simply go to the [documentation page](https://watson-personal-assistant.github.io/developer) documentation page and click on the edit icon at the top of the page.  If you aren't a member of the repo do a pull request for the page you want to fix or add.
 
 If  you want to add a section or add pages read these [instructions]().
 
