@@ -9,14 +9,14 @@ This tutorial will walk you through the first phase of  building your first rule
 3. How to
 
 ### Pre-requisite
-Make sure you have already [setup your local development environment]({{site.baseurl}}/developer/expertise/setup-local-dev-env/)
+Make sure you have already [setup your local development environment]({{site.baseurl}}/expertise/setup-local-dev-env/)
 
 ### Step 1: Fork
 
 ### Finish
 Now you now have a working rule.
 
- > **What next?** Learn how to [rule enable your expertise]({{site.baseurl}}/developer/knowledge/rule-enable-expertise/) to be proactive.
+ > **What next?** Learn how to [rule enable your expertise]({{site.baseurl}}/knowledge/rule-enable-expertise/) to be proactive.
 
 ____
-Help [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)
+Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

@@ -43,6 +43,6 @@ Personal Assistant applications have context.  Provides background information t
 * The context for ''home'' during the school year (time) is the dorm room on campus at the university he is attending
 * The context for ''home'' during the summer and school breaks are his parents primary address and not vacation address
 
-> **What next?** [Learn how to build a personal assistant application]({{site.baseurl}}/developer/cognitive-application/build-applications/)
+> **What next?** [Learn how to build a personal assistant application]({{site.baseurl}}/cognitive-application/build-applications/)
 
-Help [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)
+Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

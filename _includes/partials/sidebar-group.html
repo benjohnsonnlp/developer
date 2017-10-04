@@ -63,7 +63,7 @@
           {% endcomment %}
           {% if section_id == parent_section %}
             <li class="links__list-item">
-              <a href="{{ site.github.url}}{{ currentPage.url }}"
+              <a href="{{ site.baseurl}}{{ currentPage.url }}"
                  class="links__link {% if page.url == currentPage.url %}links__link--selected{% endif %}">
                 {{ currentPage.title }}
               </a>

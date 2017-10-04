@@ -19,4 +19,4 @@ weight: 10
 > **What next?** Learn how to [contribute](((site.baseurl}}/contribute/contribute-doc/)
 
 --------
-Help and [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)
+Help and [contribute]({{site.baseurl}}/contribute/contribute-doc/)

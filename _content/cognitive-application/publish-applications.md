@@ -8,6 +8,6 @@ weight: 20
 
   * Explain how to publish application in the library.
 
- **What next?** Learn how to [manage your offering lifecycle]({{site.baseurl}}/developer/offering-lifecyle/what-are-they/)
+ **What next?** Learn how to [manage your offering lifecycle]({{site.baseurl}}/offering-lifecyle/what-are-they/)
 
-Help [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)
+Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

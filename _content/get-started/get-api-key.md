@@ -27,4 +27,4 @@ Tokens can be created by the WPA Builder application developer.  They are bound 
 - To create a token, see the [instructions]() in the Authentication section.
 - Tokens are only valid for 1 hour. 
 
->**What next?**  Learn about the basics ["to get started"]({{site.baseurl}}/developer/developer/get-started/get-started/)
+>**What next?**  Learn about the basics ["to get started"]({{site.baseurl}}/get-started/get-started/)

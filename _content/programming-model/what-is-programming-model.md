@@ -1,6 +1,6 @@
 ---
 title: Programming model
-weight: 10
+weight: 15
 ---
 Programming models bridge the gap between the underlying hardware architecture, infrastructure services and developer services that form the underlying constructs needed to build applications. Programming models express how to build applications regardless of which programming languages is used. A programming model is easily explainable to a 10 year old.  It abstracts the underlying system algorithms, data structure and limitations while expressing the benefits of the system.
 
@@ -15,6 +15,6 @@ Imagine a personal assistant that could always be available to help regardless o
 
 The Watson Personal Assistant Builder programming model overcomes many of the above limitations building personal digital assistants.  The Watson Personal Assistant Builder service provides single place to register value added digital assistant services for use by a business's customers.  These services are proactively triggered by Watson Personal Assistant Builder service when a user interacts with devices, client applications and objects in around him or her.  Watson Personal Assistant Builder is able to reason about the space around a person and decide when and which services could be useful.  The Watson Personal Assistant Builder service allows developers to create applications that interact with customers in more human ways using IBM Watson cognitive services and others that you create using the Watson Personal Assistant Builder service.
 
->**What next?** Learn about the ["Concepts"]({{site.baseurl}}/developer/programming-model/concepts/)
+>**What next?** Learn about the ["Concepts"]({{site.baseurl}}/programming-model/concepts/)
 
->Help and [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)
+>Help and [contribute]({{site.baseurl}}/contribute/contribute-doc/)

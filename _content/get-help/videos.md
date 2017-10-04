@@ -3,7 +3,7 @@ title: Videos
 weight: 19
 ---
 ## Watson Personal Assistant Builder
-These [videos](https://ibm.box.com/s/ip578t6zklsoojeo0x39t13d14894m4q) in Box provide examples of how to use the [service Rest APIs]({{site.baseurl}}/developer/cognitive-services/what-are-they/) with Swagger and expertise using text conversations with a Chatter [application integrations]({{site.baseurl}}/developer/cognitive-application/client-application-integrations/).
+These [videos](https://ibm.box.com/s/ip578t6zklsoojeo0x39t13d14894m4q) in Box provide examples of how to use the [service Rest APIs]({{site.baseurl}}/cognitive-services/what-are-they/) with Swagger and expertise using text conversations with a Chatter [application integrations]({{site.baseurl}}/cognitive-application/client-application-integrations/).
 
 | Videos Description                                 |
 |:--------------------------------------------|
@@ -21,6 +21,6 @@ These [videos](https://ibm.box.com/s/ip578t6zklsoojeo0x39t13d14894m4q) in Box pr
 ## Watson Personal Assistant Builder 0.6
 Coming soon in July 2017
 
-> **What next?** Get more [help]({{site.baseurl}}/developer/get-help/learn/)
+> **What next?** Get more [help]({{site.baseurl}}/get-help/learn/)
 
-Help [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)
+Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

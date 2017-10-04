@@ -21,7 +21,7 @@ This section explains how to setup your local development environment so that yo
 2.  Install [PIP](https://pip.pypa.io/en/stable/reference/pip_download/#pip-download) for Python dependency management
 3.  Install [Git](https://git-scm.com/downloads)
 
-> **What next?** Learn how to build your first [expertise]({{site.baseurl}}/developer/expertise/build-expertise/)
+> **What next?** Learn how to build your first [expertise]({{site.baseurl}}/expertise/build-expertise/)
 
 --------
-Help [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)
+Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

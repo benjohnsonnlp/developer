@@ -68,6 +68,6 @@ How to implement?
 
 ## Integrate with the expertise
 
-> **What next?** Learn how about [Objects]({{site.baseurl}}/developer/knowledge/objects/)
+> **What next?** Learn how about [Objects]({{site.baseurl}}/knowledge/objects/)
 
-Help [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)
+Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

@@ -8,7 +8,7 @@ weight: 30
   * How to deploy and configure a Personal Assistant application.
   * What deployment targets are supported? Bluemix others?  
 
-> **What next?** Learn how to [test a personal assistant application]({{site.baseurl}}/developer/cognitive-application/test-applications/)
+> **What next?** Learn how to [test a personal assistant application]({{site.baseurl}}/cognitive-application/test-applications/)
 
 
-Help [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)
+Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

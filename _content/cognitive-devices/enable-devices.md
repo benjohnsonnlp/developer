@@ -19,4 +19,4 @@ If you’re a hardware maker and your connected device has a microphone and a sp
 It’s straightforward and free to add Watson Personal Assistant to your device using the Personal Assistant Builder service.  Extend your product's capabilities by allowing your users to interact with your products in new delightful ways.
 </div>
 
-> **What next?** Learn how to [plan your offering]({{site.baseurl}}/developer/offering-lifecyle/what-are-they/)
+> **What next?** Learn how to [plan your offering]({{site.baseurl}}/offering-lifecyle/what-are-they/)

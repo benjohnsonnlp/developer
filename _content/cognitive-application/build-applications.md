@@ -46,6 +46,6 @@ weight: 30
  	| 		Others?              | Others?                   |   Others?       |
 
 
- > **What next?** Learn how to [deploy your Personal Assistant application ]({{site.baseurl}}/developer/cognitive-application/deploy-applications/) 
+ > **What next?** Learn how to [deploy your Personal Assistant application ]({{site.baseurl}}/cognitive-application/deploy-applications/) 
 
- Help [contribute]({{site.baseurl}}/developer/contribute/contribute-doc/)
+ Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)
