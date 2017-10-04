@@ -2,20 +2,13 @@
 title: Building a Watson Personal Assistant application
 weight: 10
 ---
-Use these steps to quickly ramp-up and start creating expertises and applications:
+Use these steps to quickly ramp-up and start creating expertise and applications:
 
 * Firstly, [register]({{site.baseurl}}/get-started/get-api-key/) for the Watson Personal Assistant Builder service.
-* While you're waiting for your request to be approved, understand the Watson Personal Assistant Builder [architecture and programming model]({{site.baseurl}}/programming-model/what-is-programming-model/).
-* When your request is approved, you will be receive an API key and service URL.
-* If you want to use Bluemix or Watson services, you must request access to those services separately.
-* Create and use your first [expertise]({{site.baseurl}}/expertise/what-are-they/)
-* Create a token to authorize a device to connect to the Watson Personal Assistant Builder voice service.
-* Create your first [application]({{site.baseurl}}/cognitive-application/what-are-they/)
-* Make your expertise proactive with the [Knowledge and Reasoning]({{site.baseurl}}/knowledge/proactive/) service
-* [Plan your offering]({{site.baseurl}}/offering-lifecyle/what-are-they/) using the Watson Personal Assistant service, expertises, and consulting services.
-* Share [best practices]({{site.baseurl}}/contribute/contribute-doc/) with others
-
-
-
+* While you're waiting for your request to be approved, [understand]({{site.baseurl}}/programming-model/what-is-programming-model/) the Watson Personal Assistant Builder service.
+* When your request is approved, you will receive an API key to access your personal assistant.
+* If you want to use Bluemix or Watson services to power your application, you must request access to those services separately.
+* Using your API key, [create a simple expertise]({{site.baseurl}}/expertise/what-are-they/) to learn how you go about giving your application intelligence.
+* Lastly, [complete a _proactive_ tutorial]({{site.baseurl}}/knowledge/proactive/) to learn how to make your application proactive using the Knowledge and Reasoning service.
 
 >Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)
