@@ -15,7 +15,7 @@ Once you have been approved for the Watson Personal Assistant Builder beta, you 
 
 `673b5a19-37d6-bccf-e0b2-169f7a105e07`
 
-Head to the https://watson-personal-assistant-toolkit.mybluemix.net website and paste your key into the text field to then access your instance of the Watson Personal Assistant Builder service. From there you can; access this documentation, access Swagger UIs for the various APIs and test your personal assistant with a simple text-based chat.
+Head to the [https://watson-personal-assistant-toolkit.mybluemix.net](https://watson-personal-assistant-toolkit.mybluemix.net) website and paste your key into the text field to then access your instance of the Watson Personal Assistant Builder service. From there you can; access this documentation, access Swagger UIs for the various APIs and test your personal assistant with a simple text-based chat.
 
 ### Other service API keys
 If your Watson Personal Assistant Builder application or expertise includes other Bluemix or Watson Services, you must also provision and manage those keys separately.   
