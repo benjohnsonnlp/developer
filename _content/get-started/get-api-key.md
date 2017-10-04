@@ -20,12 +20,4 @@ Head to the [https://watson-personal-assistant-toolkit.mybluemix.net](https://wa
 ### Other service API keys
 If your Watson Personal Assistant Builder application or expertise includes other Bluemix or Watson Services, you must also provision and manage those keys separately.   
 
-## Creating tokens
-Tokens are used to authorize a device to access the Watson Personal Assistant Builder Voice service that includes a websocket server.  A user can speak utterances into a device and send them to the Watson Personal Assistant Builder Voice service.  The Watson Personal Assistant Builder Voice service converts the utterances into text using the Speech to Text service and then onto the Watson Personal Assistant Builder service.
-
-Tokens can be created by the Watson Personal Assistant Builder application developer.  They are bound to the authenticated user using the device. 
-
-- To create a token, see the [instructions]({{site.baseurl}}/broken_link) in the Authentication section.
-- Tokens are only valid for 1 hour. 
-
 >**What next?**  Learn about the basics ["to get started"]({{site.baseurl}}/get-started/get-started/)
