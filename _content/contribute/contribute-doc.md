@@ -5,7 +5,7 @@ weight: 10
 
 There are a variety of ways you can help improve Watson Personal Assistant Builder service. Contribute back to the developer community in the following ways:
 
-* Provide us [feedback on this form]()
+* Provide us [feedback on this form]({{site.baseurl}}/broken_link)
 * Answer questions on Stack Overflow - *Need tags we will use.*
 * Answer questions on IBM Developerworks - *Need forum we will use.*
 * Improve the Watson Personal Assistant Builder [documentation](https://watson-personal-assistant.github.io/developer/)
@@ -19,10 +19,10 @@ There are a variety of ways you can help improve Watson Personal Assistant Build
 Edit content in pages immediately right in the browser or edit `.md` pages under the `_content` directory.
 
 ### Add new pages
-You can add new pages for missing content by copying an existing page in the section as template.  Pages are formatted using [kramdown](https://kramdown.gettalong.org/quickref.html).  See [Quick Reference]() on how to add new pages. Remember to add the pages to the right folders that map to the sections.
+You can add new pages for missing content by copying an existing page in the section as template.  Pages are formatted using [kramdown](https://kramdown.gettalong.org/quickref.html).  See [Quick Reference]({{site.baseurl}}/broken_link) on how to add new pages. Remember to add the pages to the right folders that map to the sections.
 
 ### Add new sections
-Add new sections to this documentation in the browser [Quick Reference on how to add sections]().
+Add new sections to this documentation in the browser [Quick Reference on how to add sections]({{site.baseurl}}/broken_link).
 
 ### Edit the home page
 To change the home page, edit `index.md`.

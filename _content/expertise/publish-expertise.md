@@ -16,8 +16,8 @@ weight: 40
 
   | Expertise Name  (Links to GitRepo or endpoint)                     | Programming Language   | Contact    | Type         |
   |:---------------------------------------------------------------------:|:-------:|:----------:|:------------:|
-  | [IBM Community Expertise]()  | NodejS  | Carlos Ferreira | Community   |
-  | [IBM Cognitive Spaces Expertise]()  | NodejS  | Carlos Ferreira | Community   |
+  | [IBM Community Expertise]({{site.baseurl}}/broken_link)  | NodejS  | Carlos Ferreira | Community   |
+  | [IBM Cognitive Spaces Expertise]({{site.baseurl}}/broken_link)  | NodejS  | Carlos Ferreira | Community   |
 
 
 

@@ -13,7 +13,7 @@ The Watson Personal Assistant Builder uses the same natural language concepts as
 *  [Dialogs](https://www.ibm.com/watson/developercloud/doc/conversation/dialog-build.html)
 
 
-To get some ideas on the kinds of expertise that are available and you can build with the Watson Personal Assistant Builder review the [Git repository]().  This documentation also describes how to create [expertise]({{site.baseurl}}/expertise/build-expertise/) if you don't find what you need in the [Expertise Github repository library]().
+To get some ideas on the kinds of expertise that are available and you can build with the Watson Personal Assistant Builder review the [Git repository]({{site.baseurl}}/broken_link).  This documentation also describes how to create [expertise]({{site.baseurl}}/expertise/build-expertise/) if you don't find what you need in the [Expertise Github repository library]({{site.baseurl}}/broken_link).
 
 Expertise are accessed by the user using [client application integrations]({{site.baseurl}}/cognitive-application/client-application-integrations/).  
 

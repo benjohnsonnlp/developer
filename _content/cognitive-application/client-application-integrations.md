@@ -14,15 +14,15 @@ Messaging client applications typically allow the user to text a message to anot
 3.  Users simply start text or speak their questions or utterances to the client application and the Watson Personal Assistant Builder responds.
 
 ### Use Telegram
-See this [reference]() to use the Telegram client application integration.
+See this [reference]({{site.baseurl}}/broken_link) to use the Telegram client application integration.
 
 ### Use Slack
-See this [reference]() to use the Slack client application integration.
+See this [reference]({{site.baseurl}}/broken_link) to use the Slack client application integration.
 
-See this [reference implementation]()  implementation if you need a way to automatically log utterances that aren't properly routed to an expertise.
+See this [reference implementation]({{site.baseurl}}/broken_link)  implementation if you need a way to automatically log utterances that aren't properly routed to an expertise.
 
 ### Use Kik bot
-See this [reference]() to use the Kik Bot client application integration.
+See this [reference]({{site.baseurl}}/broken_link) to use the Kik Bot client application integration.
 
 ## Create a new client application integration
 To be described.

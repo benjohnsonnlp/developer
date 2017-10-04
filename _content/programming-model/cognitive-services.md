@@ -6,9 +6,9 @@ Here are the available cognitive services and links to the API reference documen
 
 ### Watson Personal Assistant Builder services
 
-* [Personal Assistant Builder Service]()
-* [Knowledge and Reasoning Objects]()
-* [Knowledge and Reasoning Subscriptions]()
+* [Personal Assistant Builder Service]({{site.baseurl}}/broken_link)
+* [Knowledge and Reasoning Objects]({{site.baseurl}}/broken_link)
+* [Knowledge and Reasoning Subscriptions]({{site.baseurl}}/broken_link)
 
 ### Watson Personal Assistant Builder service
 
