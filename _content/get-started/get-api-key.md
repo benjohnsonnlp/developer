@@ -20,4 +20,4 @@ Head to the [https://watson-personal-assistant-toolkit.mybluemix.net](https://wa
 ### Other service API keys
 If your Watson Personal Assistant Builder application or expertise includes other Bluemix or Watson Services, you must also provision and manage those keys separately.   
 
->**What next?**  Learn about the basics ["to get started"]({{site.baseurl}}/get-started/get-started/)
+>**What next?**  Learn about the [builder service]({{site.baseurl}}/understand-service/overview)

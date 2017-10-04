@@ -98,7 +98,7 @@ The JSON returned should include the following:
 
 Now that you have successfully created your first Hello World expertise you should try creating your own Expertise.  There are many example expertise developed and maintained by the Watson Personal Assistant team that you can use to start from.  These can be found at [Expertise]({{site.baseurl}}/broken_link).  Other expertise can be found at [ConsumerIoT]({{site.baseurl}}/broken_link) then search repositories with `expertise` in the name.
 
-> **What next?** Learn how to use your expertise in an [application]({{site.baseurl}}/cognitive-application/what-are-they/)
+> **What next?** Learn how to use the [Knowledge and Reasoning service]({{site.baseurl}}/knowledge/proactive)
 
 --------
 Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

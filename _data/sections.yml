@@ -6,10 +6,10 @@ default:
 get-started:
   title: Getting Started
   icon: book
-
-programming-model:
+  
+understand-service:
   title: Architecture
-  icon: wrench
+  icon: graduation-cap 
 
 expertise:
   title: Expertise
@@ -25,7 +25,7 @@ get-help:
 
 contribute:
   title: Contribute
-  icon: graduation-cap
+  icon: wrench
 
 legal:
   title: Legal
