@@ -8,8 +8,8 @@ There are a variety of ways you can help improve Watson Personal Assistant Build
 * Provide us [feedback on this form]({{site.baseurl}}/broken_link)
 * Answer questions on Stack Overflow - *Need tags we will use.*
 * Answer questions on IBM Developerworks - *Need forum we will use.*
-* Improve the Watson Personal Assistant Builder [documentation](https://watson-personal-assistant.github.io/developer/)
-* Create your and share you own [expertise](expertise/build-expertise/) and client application integrations
+* Improve the Watson Personal Assistant Builder [documentation](https://github.com/Watson-Personal-Assistant/developer)
+* Create and share your own [expertise]({{site.baseurl}}/expertise/build-expertise/) and client application integrations.
 * Blog about your experiences.
 * Share your success stories and use cases in this section.
 
