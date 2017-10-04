@@ -64,6 +64,3 @@ To start Jekyll and see edit changes running locally:
 You might see some "npm ERR!" messages but they are harmless.  As long as you see something like "Server address: http://127.0.0.1:4000/" and "Server running... press ctrl-c to stop". Then the jekyll process is running correctly.
 
 Go to that address to see the documentation site running locally . Do a browser refresh to see any edits.
-
---------
-Help and [contribute]({{site.baseurl}}/contribute/contribute-doc/)

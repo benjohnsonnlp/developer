@@ -99,6 +99,3 @@ Work is underway to support:
 * Other third parties coming soon.
 
 > **What next?** [Learn how devices interact with your Personal Assistant application]({{site.baseurl}}/cognitive-devices/what-are-they/)
-
---------
-Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

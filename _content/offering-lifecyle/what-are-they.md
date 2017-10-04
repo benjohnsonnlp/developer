@@ -17,6 +17,3 @@ weight: 10
   * Using analytics to continuously improve
 
 > **What next?** Learn how to [contribute](((site.baseurl}}/contribute/contribute-doc/)
-
---------
-Help and [contribute]({{site.baseurl}}/contribute/contribute-doc/)

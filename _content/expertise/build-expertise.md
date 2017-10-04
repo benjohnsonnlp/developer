@@ -118,6 +118,3 @@ Response:
 Now you have a working expertise and next we have to register this expertise to Personal Assistant Builder Personal Assistant Builder service.  Text utterances requests are then sent to the Personal Assistant Builder service to get a response from the registered hello world expertise.
 
  > **What next?** Learn how to [register and test a local expertise]({{site.baseurl}}/expertise/develop-locally/) using a Bluemix hosted Personal Assistant Builder service   
-
-____
-Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

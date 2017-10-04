@@ -9,6 +9,3 @@ weight: 30
   * What deployment targets are supported? Bluemix others?  
 
 > **What next?** Learn how to [test a personal assistant application]({{site.baseurl}}/cognitive-application/test-applications/)
-
-
-Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

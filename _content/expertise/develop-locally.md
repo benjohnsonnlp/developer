@@ -71,6 +71,3 @@ The JSON returned should include the following:
 ```
 
 > **What next?** Learn how to [deploy your expertise to Bluemix]({{site.baseurl}}/expertise/deploy-to-bluemix/)
-
---------
-Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

@@ -22,6 +22,3 @@ This section explains how to setup your local development environment so that yo
 3.  Install [Git](https://git-scm.com/downloads)
 
 > **What next?** Learn how to build your first [expertise]({{site.baseurl}}/expertise/build-expertise/)
-
---------
-Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

@@ -9,6 +9,3 @@ title: Get help
   * Submitting an [issue](https://github.com/Watson-Personal-Assistant/developer/issues)
 
 > **What next?** Share your [knowledge]({{site.baseurl}}/contribute/contribute-doc/) with others
-
---------
-Help and [contribute]({{site.baseurl}}/contribute/contribute-doc/)

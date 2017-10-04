@@ -14,6 +14,3 @@ weight: 10
   | Wearables |  Third Party | touch and movement driven | ? | ? | ? |
 
 > **What next?** Learn how to [enable a device for a Consumer IOT Application]({{site.baseurl}}/cognitive-devices/enable-devices)
-
---------
-Help and [contribute]({{site.baseurl}}/contribute/contribute-doc/)

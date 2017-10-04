@@ -13,6 +13,3 @@ TBD
 TBD
 
  > **What next?** Learn how to [register and test a local expertise]({{site.baseurl}}/expertise/develop-locally/) using a Bluemix hosted Personal Assistant Builder service   
-
-____
-Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

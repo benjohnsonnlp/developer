@@ -28,5 +28,3 @@ See this [reference]({{site.baseurl}}/broken_link) to use the Kik Bot client app
 To be described.
 
 > **What next?** Learn how to extend your personal assistant with [other service integrations]({{site.baseurl}}/cognitive-application/integrating-systems)
-
-Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

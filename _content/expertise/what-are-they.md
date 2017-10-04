@@ -18,6 +18,3 @@ To get some ideas on the kinds of expertise that are available and you can build
 Expertise are accessed by the user using [client application integrations]({{site.baseurl}}/cognitive-application/client-application-integrations/).  
 
 > **What next?** [Learn how to build an Expertise]({{site.baseurl}}/expertise/build-expertise/)
-
-____
-Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

@@ -22,6 +22,3 @@ TBD
 TBD
 
  > **What next?** Learn how to [build your first rule]({{site.baseurl}}/knowledge/buildrules/)  
-
-____
-Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

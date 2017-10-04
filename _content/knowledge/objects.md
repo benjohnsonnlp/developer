@@ -20,6 +20,3 @@ TBD
 TBD
 
  > **What next?** Learn how to [Rules]({{site.baseurl}}/knowledge/rules/)
-
-____
-Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

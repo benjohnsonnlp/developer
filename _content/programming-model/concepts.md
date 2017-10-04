@@ -121,6 +121,3 @@ User ->  Device/Object -> Device/Object Gateway -> Voice service -> Personal Ass
 To be added.
 
 **What next?** [Learn how to create your first expertise]({{site.baseurl}}/expertise/what-are-they/)
-
---------
-Help and [contribute]({{site.baseurl}}/contribute/contribute-doc/)

@@ -17,6 +17,3 @@ Make sure you have already [setup your local development environment]({{site.bas
 Now you now have a working rule.
 
  > **What next?** Learn how to [rule enable your expertise]({{site.baseurl}}/knowledge/rule-enable-expertise/) to be proactive.
-
-____
-Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

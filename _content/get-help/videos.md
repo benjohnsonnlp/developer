@@ -22,5 +22,3 @@ These [videos](https://ibm.box.com/s/ip578t6zklsoojeo0x39t13d14894m4q) in Box pr
 Coming soon in July 2017
 
 > **What next?** Get more [help]({{site.baseurl}}/get-help/learn/)
-
-Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)

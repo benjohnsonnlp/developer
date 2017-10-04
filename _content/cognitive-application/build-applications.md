@@ -47,5 +47,3 @@ weight: 30
 
 
  > **What next?** Learn how to [deploy your Personal Assistant application ]({{site.baseurl}}/cognitive-application/deploy-applications/) 
-
- Help [contribute]({{site.baseurl}}/contribute/contribute-doc/)
