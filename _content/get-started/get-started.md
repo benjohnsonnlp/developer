@@ -2,7 +2,7 @@
 title: Building a Watson Personal Assistant application
 weight: 10
 ---
-Use these steps to quickly ramp-up and start creating expertise and applications:
+Use these steps to quickly start powering your applications with an intelligent and proactive assistant:
 
 * Firstly, [register]({{site.baseurl}}/get-started/get-api-key/) for the Watson Personal Assistant Builder service.
 * While you're waiting for your request to be approved, [understand]({{site.baseurl}}/programming-model/what-is-programming-model/) the Watson Personal Assistant Builder service.
