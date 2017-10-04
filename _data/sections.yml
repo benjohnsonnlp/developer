@@ -19,29 +19,13 @@ knowledge:
   title: Knowledge and Reasoning
   icon: code
 
-cognitive-application:
-  title: Personal Assistant application
-  icon: code
-
-cognitive-devices:
-  title: Cognitive Device
-  icon: rocket
-
-offering-lifecyle:
-  title: Offering Lifecycle
-  icon: lock
-
 get-help:
-  title: Learn
+  title: Help
   icon: life-ring
 
 contribute:
   title: Contribute
   icon: graduation-cap
-
-success-stories:
-  title: Your Success Stories & Use Cases
-  icon: trophy
 
 legal:
   title: Legal
