@@ -3,9 +3,9 @@ title: Accessing the Watson Personal Assistant Builder service
 weight: 10
 ---
 ## Register for the Watson Personal Assistant Builder service
-The Watson Personal Assistant Builder service is an internal IBM private beta that is hosted on Bluemix and is available right now.   Access requests are reviewed and approved by the Watson Personal Assistant Builder service administrator.   
+The Watson Personal Assistant Builder service is hosted on Bluemix and is available right now in beta.  Access requests are reviewed and approved by the Watson Personal Assistant Builder service administrator.   
 
-Complete this beta request [access form]() to join the private beta.  If approved, you will be sent the necessary information to access the Watson Personal Assistant Builder service. 
+Complete this beta request [access form]() to join the beta.  If approved, you will be sent the necessary information to access the Watson Personal Assistant Builder service. 
 
 ### API key
 An API key allows you access to the Watson Personal Assistant Builder service.  An API key uniquely identifies the developer organization that is creating expertise or applications that use the Watson Personal Assistant Builder service.  The key is also used for monitoring purposes. API keys should be stored in environment variables or env files and used when making API requests to the Personal Assistant Builder service.  See example expertise implementations for how to use an API key.
