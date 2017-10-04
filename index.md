@@ -1,14 +1,14 @@
 ---
 layout: home
-title: Developer Docs for WPA Builder
+title: Developer Docs for Watson Personal Assistant Builder
 ---
 <div>
 <table>
 <body>
 <b>Let's get started</b>
  	<ul >
-    <li><a href="./get-started/get-started/">Building a WPA application</a></li>
-		<li><a href="./programming-model/what-is-programming-model/">Overview of the WPA Builder architecture</a></li>
+    <li><a href="./get-started/get-started/">Building a Watson Personal Assistant application</a></li>
+		<li><a href="./programming-model/what-is-programming-model/">Overview of the Watson Personal Assistant Builder architecture</a></li>
   	<li><a href="./expertise/what-are-they/">Building your first expertise</a></li>
     <li><a href="./cognitive-application/what-are-they/">Building your first application</a></li>
   	<li><a href="./cognitive-devices/what-are-they/">Enabling your applications for Watson voice services</a></li>

@@ -15,7 +15,7 @@ The Watson Personal Assistant Builder uses the same natural language artifacts a
 *  See [Dialogs](https://www.ibm.com/watson/developercloud/doc/conversation/dialog-build.html)
 
 ## Client applications
-A collection of user utterances or other types of interactions with a user are collated to create a client application.  Client applications often run on a device.  WPA Builder includes [client applications]({{site.baseurl}}/cognitive-application/client-application-integrations/) that you can readily reuse.
+A collection of user utterances or other types of interactions with a user are collated to create a client application.  Client applications often run on a device.  Watson Personal Assistant Builder includes [client applications]({{site.baseurl}}/cognitive-application/client-application-integrations/) that you can readily reuse.
 
 ### Devices
 A device is a mechanical and or electronic equipment that is designed for a specific purpose, such as:
@@ -27,17 +27,17 @@ Devices enable the client application to run.
 Example devices include: mobile phones, computer laptops, smart speakers, or other sensors.
 
 ## Services
-Services support the needs of the WPA Builder offering, applications, or expertise.   Services are available in IBM Bluemix Catalog. Bluemix is an open standards cloud-based development platform. 
+Services support the needs of the Watson Personal Assistant Builder offering, applications, or expertise.   Services are available in IBM Bluemix Catalog. Bluemix is an open standards cloud-based development platform. 
 
 [Watson](https://console.ng.bluemix.net/catalog/?category=watson) cognitive services are available for you to build applications and or expertise. [Watson services sample applications](https://github.com/watson-developer-cloud/).  
 
 WPA Builder includes and utilizes some of Watson services, such as Speech-to-Text, Text-to-Speech, and Conversation services.    You can also create your services in [Bluemix](https://www.ibm.com/watson/developercloud/doc/common/index.html) to power your expertise.
 
 ### Voice service
-The Voice service converts spoken user utterances into text. This text is sent to the WPA Builder service to process.   The Voice service waits for a text response from the WPA Builder service and converts it to speech.  The Voice service sends the voice response to the client application that initiated the interaction using the unique token ID. The default services in WPA Builder include Speech-to-Text and Text-to-Speech services used by the Voice service, but they can be replace with alternatives.  The Voice service authenticates and authorizes devices to interact with the WPA Builder service.  The Voice service maintains user sessions with the device and ensures that requests are responded to in a timely manner.  The Voice service is a WPA Builder service. Learn more about the Voice service [here]()  
+The Voice service converts spoken user utterances into text. This text is sent to the Watson Personal Assistant Builder service to process.   The Voice service waits for a text response from the Watson Personal Assistant Builder service and converts it to speech.  The Voice service sends the voice response to the client application that initiated the interaction using the unique token ID. The default services in Watson Personal Assistant Builder include Speech-to-Text and Text-to-Speech services used by the Voice service, but they can be replace with alternatives.  The Voice service authenticates and authorizes devices to interact with the Watson Personal Assistant Builder service.  The Voice service maintains user sessions with the device and ensures that requests are responded to in a timely manner.  The Voice service is a Watson Personal Assistant Builder service. Learn more about the Voice service [here]()  
 
-### WPA Builder service
-The Watson Personal Assistant (WPA) Builder service allows developers to quickly design, build, test, deploy, and run Personal Assistant applications such as personal assistants for their users.  The WPA Builder service provides the following set of capabilities that are accessible by developers programmatically via APIs.
+### Watson Personal Assistant Builder service
+The Watson Personal Assistant Builder service allows developers to quickly design, build, test, deploy, and run Personal Assistant applications such as personal assistants for their users.  The Watson Personal Assistant Builder service provides the following set of capabilities that are accessible by developers programmatically via APIs.
 
 * Registering expertise so that it can be discovered
 * Routing requests to the right expertise
