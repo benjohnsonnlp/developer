@@ -7,8 +7,12 @@ get-started:
   title: Getting Started
   icon: book
   
+programming-model:
+  title: Programming Model
+  icon: graduation-cap
+  
 understand-service:
-  title: Architecture
+  title: Functional Architecture
   icon: graduation-cap 
 
 expertise:
