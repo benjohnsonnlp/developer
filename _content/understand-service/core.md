@@ -1,5 +1,5 @@
 ---
-title: Core
+title: Bulider Core
 weight: 20
 ---
 

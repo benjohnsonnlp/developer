@@ -1,5 +1,5 @@
 ---
-title: Agent Subscription
+title: Agent Subscription service
 weight: 40
 ---
 
