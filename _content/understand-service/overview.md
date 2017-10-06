@@ -6,7 +6,7 @@ weight: 10
 
 ## Your Application
 
-Whatever type of application you are building, be it a mobile application, web application or an integrated hardware and software solution, requests from your users need to be converted to text and sent to the Watson Personal Assistant Builder Core using the `converse` HTTP REST API.  In this beta, the Builder service doesn't include Speech-to-Text conversion services, so this ability will have to be provided by your application services.  After sending the users' utterance to the core, your application will receive a JSON reply that includes, along with JSON context data, the textual reply for you to then show, or speak to your user.
+Whatever type of application you are building, be it a mobile application, web application or an integrated hardware and software solution, requests from your users need to be converted into text and sent to the Watson Personal Assistant Builder Core using the `converse` HTTP REST API.  In this beta, the Builder service doesn't include Speech-to-Text conversion services, so this ability will have to be provided by your application services.  After sending the users' utterance to the core, your application will receive a JSON reply that includes, along with JSON context data, the textual reply for you to then show, or speak to your user.
 
 ## The Builder Core
 
