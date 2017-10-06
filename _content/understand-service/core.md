@@ -1,5 +1,5 @@
 ---
-title: Bulider Core
+title: Builder Core
 weight: 20
 ---
 
