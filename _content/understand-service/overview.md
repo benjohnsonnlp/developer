@@ -10,7 +10,7 @@ Whatever type of application you are building, be it a mobile application, web a
 
 ## The Builder Core
 
-The Watson Personal Assistant Builder Core is the service you will interact with the most in the beginning.  The primary responsibility of the Builder Core is to route your users' utterance (in text form) to the "correct" Expertise that can handle the utterance.  Expertise are the main pieces of software you will develop in order to produce a cognitive application.  Expertise use natural language processing tools, like Watson Conversation Service, to determine the intent of your users' utterance and handle the request appropriately.  The Core routes the utterance based on a confidence score returned by expertise relevant to the current information on the context.  You'll learn what it takes to create Expertise in a later section.
+The Watson Personal Assistant Builder Core is the service you will interact with the most in the beginning.  The primary responsibility of the Builder Core is to route your users' utterance (in text form) to the "correct" Expertise that should handle it.  Expertise are the main pieces of software you will develop in order to produce a cognitive application.  Expertise use natural language processing tools, like Watson Conversation Service, to determine the intent of your users' utterance and handle the request appropriately.  The Core routes the utterance based on a confidence score returned by expertise relevant to the current information on the context.  You'll learn what it takes to create Expertise in a later section.
 
 ## The Knowledge Store
 
