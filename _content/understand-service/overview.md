@@ -26,4 +26,4 @@ You'll create, or reuse, Expertise to make your personal assistant intelligent. 
 
 ![Watson Personal Assistant Builder final]({{site.baseurl}}/images/wpa_overview2.png)
 
->**What next?**  Learn about the [core]({{site.baseurl}}/understand-service/core)
+>**What next?**  Learn more about the [Builder Core APIs]({{site.baseurl}}/understand-service/core) 
