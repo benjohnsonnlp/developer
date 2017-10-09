@@ -1,5 +1,5 @@
 default:
-  title: Watson Personal Assistant Builder
+  title: Watson Assistant Builder
   icon: book
   hidden: true
 
