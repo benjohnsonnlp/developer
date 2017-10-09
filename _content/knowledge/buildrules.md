@@ -2,7 +2,7 @@
 title: Build your first rule
 weight: 20
 ---
-This tutorial will walk you through the first phase of  building your first rule. You will create your rule programmatically using the Watson Personal Assistant Builder REST APIs that are accessible in Swagger API reference.
+This tutorial will walk you through the first phase of  building your first rule. You will create your rule programmatically using the Watson Assistant Builder REST APIs that are accessible in Swagger API reference.
 
 1. **How to make the "HelloWorld" expertise proactive.**
 2. How to

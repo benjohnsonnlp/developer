@@ -1,7 +1,7 @@
 ---
 title: Get help
 ---
-  There are a variety of ways you can get help for the Watson Personal Assistant developer community.
+  There are a variety of ways you can get help for the Watson Assistant developer community.
 
   * Stack Overflow - Need tags we will use.
   * IBM Developerworks Need forum we will use.

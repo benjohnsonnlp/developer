@@ -10,7 +10,7 @@ The personal assistant application can anticipate a user's needs and proactively
 
 The scope of assistance is determined based on the expertise the user or an administrator has chosen to enable and that is available in their application.  Expertise can be invoked generically or specialized to use “Order a pizza” vs “Order Domino’s Pizza”. Personal Assistant applications remembers your past experiences.
 
-Check to see if someone has already created an personal assistant that you can use in the Watson Personal Assistant Builder expertise git repository.
+Check to see if someone has already created an personal assistant that you can use in the Watson Assistant Builder expertise git repository.
 
 ## Space
 

@@ -4,16 +4,16 @@ weight: 30
 ---
 Here are the available cognitive services and links to the API reference documentation.  When using Swagger in the browser and clicking the "Try It Out" button, make sure you have pasted your API key in the text input field at the top of the page near the Explore button.  You will get an unauthorized error if you don't provide your API key in this field.  
 
-### Watson Personal Assistant Builder services
+### Watson Assistant Builder services
 
 * [Personal Assistant Builder Service]({{site.baseurl}}/broken_link)
 * [Knowledge and Reasoning Objects]({{site.baseurl}}/broken_link)
 * [Knowledge and Reasoning Subscriptions]({{site.baseurl}}/broken_link)
 
-### Watson Personal Assistant Builder service
+### Watson Assistant Builder service
 
 ## APIs
-The Watson Personal Assistant Builder service supports the following groups of API's:
+The Watson Assistant Builder service supports the following groups of API's:
 
 Group | Description
 --- | ---

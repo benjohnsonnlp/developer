@@ -3,12 +3,12 @@ title: Help us improve
 weight: 10
 ---
 
-There are a variety of ways you can help improve Watson Personal Assistant Builder service. Contribute back to the developer community in the following ways:
+There are a variety of ways you can help improve Watson Assistant Builder service. Contribute back to the developer community in the following ways:
 
 * Provide us [feedback on this form]({{site.baseurl}}/broken_link)
 * Answer questions on Stack Overflow - *Need tags we will use.*
 * Answer questions on IBM Developerworks - *Need forum we will use.*
-* Improve the Watson Personal Assistant Builder [documentation](https://github.com/Watson-Personal-Assistant/developer)
+* Improve the Watson Assistant Builder [documentation](https://github.com/Watson-Personal-Assistant/developer)
 * Create and share your own [expertise]({{site.baseurl}}/expertise/build-expertise/) and client application integrations.
 * Blog about your experiences.
 * Share your success stories and use cases in this section.
@@ -35,7 +35,7 @@ Clone repository
 `git clone https://github.com/watson-personal-assistant/developer.git`
 
 ### Install Jekyll
-Watson Personal Assistant Builder documentation uses Jekyll to build HTML files from the markdown source. To install Jekyll do the following command.  (Note, on MacOS Jekyll requires Xcode command line tools `xcode-select --install` should install the latest.  See [Jekyll install](https://jekyllrb.com/docs/installation/) for complete documentation if the steps below don't work.)
+Watson Assistant Builder documentation uses Jekyll to build HTML files from the markdown source. To install Jekyll do the following command.  (Note, on MacOS Jekyll requires Xcode command line tools `xcode-select --install` should install the latest.  See [Jekyll install](https://jekyllrb.com/docs/installation/) for complete documentation if the steps below don't work.)
 
 `sudo gem install jekyll bundler`
 

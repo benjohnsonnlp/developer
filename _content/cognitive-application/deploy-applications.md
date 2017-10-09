@@ -2,7 +2,7 @@
 title: Deploy
 weight: 30
 ---
-  * Check to see if someone has already created a Personal Assistant application that you can reuse. Search for Expertise in the [Watson Personal Assistant Git Repository]({{site.baseurl}}/broken_link).
+  * Check to see if someone has already created a Personal Assistant application that you can reuse. Search for Expertise in the [Watson Assistant Git Repository]({{site.baseurl}}/broken_link).
 
   Describe:
   * How to deploy and configure a Personal Assistant application.

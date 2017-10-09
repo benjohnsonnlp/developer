@@ -6,7 +6,7 @@ weight: 10
 ## Roles
 
 ### User
-A user interacts with a Watson Personal Assistant application through a device, place, object or another person through the Consumer IoT Solution.  
+A user interacts with a Watson Assistant application through a device, place, object or another person through the Consumer IoT Solution.  
 Some examples of user interactions include:
 
 * Utterances, words that a person speaks to a device
@@ -17,10 +17,10 @@ Some examples of user interactions include:
 ### An expertise developer role
 The expertise developer typically performs the following tasks:
 
-* Designs, develops and tests expertise using Watson Personal Assistant Builder service.
+* Designs, develops and tests expertise using Watson Assistant Builder service.
 * Identifies what objects and state changes can make his expertise proactive in the Knowledge and Reasoning service
 * Creates the agents to react to Blackboard Object state changes.
-* Registers his expertise with a Watson Personal Assistant Builder service
+* Registers his expertise with a Watson Assistant Builder service
 
 ### An application developer role
 The application developer typically performs the following tasks:

@@ -2,7 +2,7 @@
 title: Build your first expertise
 weight: 20
 ---
-This page will walk you through the first phase of building your first expertise. You will create your expertise programmatically using the Watson Personal Assistant Builder REST APIs that are accessible in Swagger API reference.
+This page will walk you through the first phase of building your first expertise. You will create your expertise programmatically using the Watson Assistant Builder REST APIs that are accessible in Swagger API reference.
 
 1. **How to run and use the "HelloWorld" boilerplate expertise hosted locally.**
 2. How to register and use the local running "HelloWorld" expertise with Personal Assistant Builder service.

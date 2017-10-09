@@ -1,14 +1,14 @@
 ---
 layout: home
-title: Developer Docs for Watson Personal Assistant Builder
+title: Developer Docs for Watson Assistant Builder
 ---
 <div>
 <table>
 <body>
 <b>Let's get started</b>
  	<ul >
-    <li><a href="./get-started/get-started/">Building a Watson Personal Assistant application</a></li>
-		<li><a href="./programming-model/what-is-programming-model/">Overview of the Watson Personal Assistant Builder architecture</a></li>
+    <li><a href="./get-started/get-started/">Building a Watson Assistant application</a></li>
+		<li><a href="./programming-model/what-is-programming-model/">Overview of the Watson Assistant Builder architecture</a></li>
   	<li><a href="./expertise/what-are-they/">Building your first expertise</a></li>
     <li><a href="./cognitive-application/what-are-they/">Building your first application</a></li>
   	<li><a href="./cognitive-devices/what-are-they/">Enabling your applications for Watson voice services</a></li>
@@ -16,7 +16,7 @@ title: Developer Docs for Watson Personal Assistant Builder
     <br/>
   	<b>Natural language services</b>
   	<ul>
- 		   <li><a href="./expertise/what-are-they/">Expertises</a></li>
+ 		   <li><a href="./expertise/what-are-they/">Expertise</a></li>
        <li><a href="./cognitive-application/what-are-they/">Applications</a></li>
        <li><a href="./cognitive-devices/what-are-they//">Devices</a></li>
   	</ul>
@@ -42,4 +42,4 @@ title: Developer Docs for Watson Personal Assistant Builder
 </table>
 </div>
 
-[Submit Issue](https://github.com/Watson-Personal-Assistant/developer/issues) | [Help Contribute]({{site.baseurl}}/contribute/contribute-doc/) | [Sign Up]() | [Terms of Use]({{site.baseurl}}/legal/terms-of-use/)
+[Submit Issue]({{site.baseurl}}/issues) | [Help Contribute]({{site.baseurl}}/contribute/contribute-doc/) | [Sign Up]() | [Terms of Use]({{site.baseurl}}/legal/terms-of-use/)
