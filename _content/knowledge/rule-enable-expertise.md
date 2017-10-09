@@ -12,4 +12,4 @@ TBD
 ## How to test expertise for proactiveness
 TBD
 
- > **What next?** Learn how to [register and test a local expertise]({{site.baseurl}}/expertise/develop-locally/) using a Bluemix hosted Personal Assistant Builder service   
+ > **What next?** Learn how to [register and test a local expertise]({{site.baseurl}}/expertise/develop-locally/) using a Bluemix hosted Assistant Builder service   

@@ -2,7 +2,7 @@
 title: Objects
 weight: 20
 ---
-The Knowledge and Reasoning enables developers to add proactive insights to their Personal Assistant applications.   Reasoning requires knowledge and understanding of the real world. Objects allow Watson Assistant Builder to understand what objects exist in the real world so that it can be reason about which expertise can apply in different situations.
+The Knowledge and Reasoning enables developers to add proactive insights to their Assistant applications.   Reasoning requires knowledge and understanding of the real world. Objects allow Watson Assistant Builder to understand what objects exist in the real world so that it can be reason about which expertise can apply in different situations.
 
 ## How and why to create objects
 TBD

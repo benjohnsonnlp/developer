@@ -8,7 +8,7 @@ A personal assistant application helps user's with their needs within the contex
 
 The personal assistant application can anticipate a user's needs and proactively suggests help before, during and after their experience. This is done using the Knowledge and Reasoning API's.
 
-The scope of assistance is determined based on the expertise the user or an administrator has chosen to enable and that is available in their application.  Expertise can be invoked generically or specialized to use “Order a pizza” vs “Order Domino’s Pizza”. Personal Assistant applications remembers your past experiences.
+The scope of assistance is determined based on the expertise the user or an administrator has chosen to enable and that is available in their application.  Expertise can be invoked generically or specialized to use “Order a pizza” vs “Order Domino’s Pizza”. Assistant applications remembers your past experiences.
 
 Check to see if someone has already created an personal assistant that you can use in the Watson Assistant Builder expertise git repository.
 
@@ -24,7 +24,7 @@ A space helps identify what are the available compatible, trusted, customizable 
 
 ## Cognitive profile
 
-Work is underway to support cognitive profiles.  A cognitive profile are a user's customized set of choices for a Personal Assistant application and or those that are personalized for them.  These can include:
+Work is underway to support cognitive profiles.  A cognitive profile are a user's customized set of choices for a Assistant application and or those that are personalized for them.  These can include:
 
 * To share or not share my experience with others
 * Suggest, remember or forget my experience
@@ -35,7 +35,7 @@ Work is underway to support cognitive profiles.  A cognitive profile are a user'
 
 ## Context
 
-Personal Assistant applications have context.  Provides background information that further clarifies the meaning of a location, interaction or user.  The conditions around a situation, setting, location time, user and devices that are involved.  Here are some examples. Context helps reduce the number of questions a user has to answer during a session.  Context is passed in each request to the Personal Assistant Builder service.
+Assistant applications have context.  Provides background information that further clarifies the meaning of a location, interaction or user.  The conditions around a situation, setting, location time, user and devices that are involved.  Here are some examples. Context helps reduce the number of questions a user has to answer during a session.  Context is passed in each request to the Assistant Builder service.
 
 ## Home
 

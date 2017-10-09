@@ -8,7 +8,7 @@ The Watson Assistant Builder service is hosted on Bluemix and is available right
 Complete this beta request [access form]({{site.baseurl}}/broken_link) to join the beta.  If approved, you will be sent the necessary information to access the Watson Assistant Builder service. 
 
 ### API key
-An API key allows you access to the Watson Assistant Builder service.  An API key uniquely identifies the developer organization that is creating expertise or applications that use the Watson Assistant Builder service.  The key is also used for monitoring purposes. API keys should be stored in environment variables or env files and used when making API requests to the Personal Assistant Builder service.  See example expertise implementations for how to use an API key.
+An API key allows you access to the Watson Assistant Builder service.  An API key uniquely identifies the developer organization that is creating expertise or applications that use the Watson Assistant Builder service.  The key is also used for monitoring purposes. API keys should be stored in environment variables or env files and used when making API requests to the Assistant Builder service.  See example expertise implementations for how to use an API key.
 
 ### Accessing the service
 Once you have been approved for the Watson Assistant Builder beta, you will be provided with an API key that looks something like this:

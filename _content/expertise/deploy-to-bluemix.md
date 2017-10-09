@@ -5,7 +5,7 @@ weight: 34
 This page will walk you through the next phase of building your first expertise.
 
 1. [How to run and use the "HelloWorld" boilerplate expertise hosted locally.]({{site.baseurl}}/expertise/build-expertise)
-2. [How to register and use the local running "HelloWorld" expertise with Personal Assistant Builder service.]({{site.baseurl}}/expertise/develop-locally)
+2. [How to register and use the local running "HelloWorld" expertise with Assistant Builder service.]({{site.baseurl}}/expertise/develop-locally)
 3. **How to host your "HelloWorld" expertise on Bluemix for others to use.**
 
 ### Pre-requisite
@@ -59,8 +59,8 @@ curl: (6) Could not resolve host: Accept
 * Check to make sure you app / expertise is running on Bluemix.  Test the URL
 * Check to make sure you application is running by opening a browser and trying to navigate to the Expertise Swagger doc. An example URL: https://carloshelloexpertise.mybluemix.net/docs/
 
-### Step 5: Update the hostname for the expertise, running on Bluemix, to the Personal Assistant's collection
-Use the Personal Assistant Builder service **/expertise/UpdateExpertise** API to update your expertise running on Bluemix to the public registry using your API Key and Personal Assistant Builder service Bluemix hosted URL.
+### Step 5: Update the hostname for the expertise, running on Bluemix, to the Assistant's collection
+Use the Assistant Builder service **/expertise/UpdateExpertise** API to update your expertise running on Bluemix to the public registry using your API Key and Assistant Builder service Bluemix hosted URL.
 
 **Make sure you change the `hostname` and paste your API key in the command below.**
 
@@ -69,8 +69,8 @@ Use the Personal Assistant Builder service **/expertise/UpdateExpertise** API to
   "url": "https://yourname-hello-world-expertise.mybluemix.net"
 }' 'https://watson-personal-assistant-toolkit.mybluemix.net/v1/api/expertise/UpdateExpertise/hello-world?api_key=paste-your-api-key-here'`
 
-### Step 6: Say hello to your hello-world expertise hosted on Bluemix using the Personal Assistant Builder service
-Use the Personal Assistant Builder service **/converse/expertiseCollection** API to say "Hello" using your API Key and Personal Assistant Builder service Bluemix hosted URL.
+### Step 6: Say hello to your hello-world expertise hosted on Bluemix using the Assistant Builder service
+Use the Assistant Builder service **/converse/expertiseCollection** API to say "Hello" using your API Key and Assistant Builder service Bluemix hosted URL.
 
 `curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' -d '{
   "id": "id-dc6",

@@ -14,9 +14,9 @@ weight: 20
   | Harman Speaker | Third Party	| Harman	| Sample Github URL | Henry Bo | TBD |
 
 <div style="font-size:?pt;color:?;">
-If you’re a hardware maker and your connected device has a microphone and a speaker, the Watson Assistant Builder allows a developer to add proactive interactive experiences to connected devices.  Users can simply speak or interact devices through the microphone, or a device Watson Watson Assistant Builder services will respond through your device's speakers. This gives users access to the expertise and capabilities, including built-in expertise and those created by you and other developers using the Personal Assistant Builder. Examples of expertise include the ability to answer general knowledge questions, provide weather forecasts, query Wikipedia and much more.
+If you’re a hardware maker and your connected device has a microphone and a speaker, the Watson Assistant Builder allows a developer to add proactive interactive experiences to connected devices.  Users can simply speak or interact devices through the microphone, or a device Watson Watson Assistant Builder services will respond through your device's speakers. This gives users access to the expertise and capabilities, including built-in expertise and those created by you and other developers using the Assistant Builder. Examples of expertise include the ability to answer general knowledge questions, provide weather forecasts, query Wikipedia and much more.
 
-It’s straightforward and free to add Watson Assistant to your device using the Personal Assistant Builder service.  Extend your product's capabilities by allowing your users to interact with your products in new delightful ways.
+It’s straightforward and free to add Watson Assistant to your device using the Assistant Builder service.  Extend your product's capabilities by allowing your users to interact with your products in new delightful ways.
 </div>
 
 > **What next?** Learn how to [plan your offering]({{site.baseurl}}/offering-lifecyle/what-are-they/)

@@ -10,7 +10,7 @@ The personal assistant applications created with Watson Assistant become persona
 Messaging client applications typically allow the user to text a message to another address.  To use one of the existing messaging applications typically involves the following steps.
 
 1.  Creating a user address for your personal assistant on the messaging service.
-2.  Ensure the voice messages are going to your Watson Assistant Voice Service endpoint or text messages are going to the Personal Assistant Builder service.
+2.  Ensure the voice messages are going to your Watson Assistant Voice Service endpoint or text messages are going to the Assistant Builder service.
 3.  Users simply start text or speak their questions or utterances to the client application and the Watson Assistant Builder responds.
 
 ### Use Telegram

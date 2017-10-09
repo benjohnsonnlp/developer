@@ -6,7 +6,7 @@ Here are the available cognitive services and links to the API reference documen
 
 ### Watson Assistant Builder services
 
-* [Personal Assistant Builder Service]({{site.baseurl}}/broken_link)
+* [Assistant Builder Service]({{site.baseurl}}/broken_link)
 * [Knowledge and Reasoning Objects]({{site.baseurl}}/broken_link)
 * [Knowledge and Reasoning Subscriptions]({{site.baseurl}}/broken_link)
 
@@ -98,4 +98,4 @@ Work is underway to support:
 * TripAdvisor
 * Other third parties coming soon.
 
-> **What next?** [Learn how devices interact with your Personal Assistant application]({{site.baseurl}}/cognitive-devices/what-are-they/)
+> **What next?** [Learn how devices interact with your Assistant application]({{site.baseurl}}/cognitive-devices/what-are-they/)

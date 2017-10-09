@@ -2,7 +2,7 @@
 title: Test
 weight: 40
 ---
-  * Describe how to test a Personal Assistant applications.
+  * Describe how to test a Assistant applications.
 
  [Library](https://watson-personal-assistant.github.io/developer/cognitive-applications/publish-applications/)
 

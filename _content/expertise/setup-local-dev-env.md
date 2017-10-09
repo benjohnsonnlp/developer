@@ -9,7 +9,7 @@ This section explains how to setup your local development environment so that yo
 2.  Download Bluemix [CLI](https://console.ng.bluemix.net/docs/cli/index.html#cli)
 3.  Download or use your preferred IDE ( Atom, Sublime, Eclipse )
 4.  Use [Bluemix CLI](https://console.ng.bluemix.net/docs/cli/index.html#downloads) to create Watson Conversation Service that will be used by the expertise.
-5.  Download and use NGROK. https://ngrok.com/download to run expertise locally $ ./ngrok help $ ./ngrok http 5000  to allow the Personal Assistant Builder service to call your local running expertise.
+5.  Download and use NGROK. https://ngrok.com/download to run expertise locally $ ./ngrok help $ ./ngrok http 5000  to allow the Assistant Builder service to call your local running expertise.
 
 ## Setup NodeJS
 1.  Install [NodeJS](https://nodejs.org/en/)

@@ -2,12 +2,12 @@
 title: Build
 weight: 30
 ---
-* Check to see if someone has already created a Personal Assistant application that you can reuse. Search for Expertise in the
-* Explain how to build a Personal Assistant application.
+* Check to see if someone has already created a Assistant application that you can reuse. Search for Expertise in the
+* Explain how to build a Assistant application.
 * package expertise and models
 * test
 
- Designing a Personal Assistant application is unlike other applications you have likely designed and built before.  There are more careful design considerations needed to create a engaging proactive personal user experience.  While you can use your normal design techniques like Design Thinking, there are some key point to make note of when building your application.  Here are practices that you should consider as you design your application so that it aligns with the Watson Assistant Builder programming model
+ Designing a Assistant application is unlike other applications you have likely designed and built before.  There are more careful design considerations needed to create a engaging proactive personal user experience.  While you can use your normal design techniques like Design Thinking, there are some key point to make note of when building your application.  Here are practices that you should consider as you design your application so that it aligns with the Watson Assistant Builder programming model
 
 1.  Organize the overall storyboard of the entire user experience for your application
 
@@ -25,7 +25,7 @@ weight: 30
 
 4.  Use the previous step to begin to identify what expertise you may require.  Check to see if the expertise already exists in the Watson Assistant Builder expertise repository.  What category of expertise is it?  Travel, health, entertainment, food, etc.
 
-5.  From step three identify what type of Personal Assistant application you are trying to build.  There are specific design patterns and starters that align to the different types of Personal Assistant applications that you are building.
+5.  From step three identify what type of Assistant application you are trying to build.  There are specific design patterns and starters that align to the different types of Assistant applications that you are building.
 
 | Type                    | Devices          | Client Application         | Interaction                |
 |:------------------------:|:----------------:|:--------------------------:|:---------------------------:|
@@ -46,4 +46,4 @@ weight: 30
  	| 		Others?              | Others?                   |   Others?       |
 
 
- > **What next?** Learn how to [deploy your Personal Assistant application ]({{site.baseurl}}/cognitive-application/deploy-applications/) 
+ > **What next?** Learn how to [deploy your Assistant application ]({{site.baseurl}}/cognitive-application/deploy-applications/) 

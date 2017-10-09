@@ -37,7 +37,7 @@ WPA Builder includes and utilizes some of Watson services, such as Speech-to-Tex
 The Voice service converts spoken user utterances into text. This text is sent to the Watson Assistant Builder service to process.   The Voice service waits for a text response from the Watson Assistant Builder service and converts it to speech.  The Voice service sends the voice response to the client application that initiated the interaction using the unique token ID. The default services in Watson Assistant Builder include Speech-to-Text and Text-to-Speech services used by the Voice service, but they can be replace with alternatives.  The Voice service authenticates and authorizes devices to interact with the Watson Assistant Builder service.  The Voice service maintains user sessions with the device and ensures that requests are responded to in a timely manner.  The Voice service is a Watson Assistant Builder service. Learn more about the Voice service [here]({{site.baseurl}}/broken_link)  
 
 ### Watson Assistant Builder service
-The Watson Assistant Builder service allows developers to quickly design, build, test, deploy, and run Personal Assistant applications such as personal assistants for their users.  The Watson Assistant Builder service provides the following set of capabilities that are accessible by developers programmatically via APIs.
+The Watson Assistant Builder service allows developers to quickly design, build, test, deploy, and run Assistant applications such as personal assistants for their users.  The Watson Assistant Builder service provides the following set of capabilities that are accessible by developers programmatically via APIs.
 
 * Registering expertise so that it can be discovered
 * Routing requests to the right expertise
@@ -45,7 +45,7 @@ The Watson Assistant Builder service allows developers to quickly design, build,
 * Organizing expertise by group and organization
 * Verifying the health of expertise
 
-The Personal Assistant Builder service is a Watson Assistant Builder service. Learn more about the Personal Assistant Builder service [here]({{site.baseurl}}/broken_link)  
+The Assistant Builder service is a Watson Assistant Builder service. Learn more about the Assistant Builder service [here]({{site.baseurl}}/broken_link)  
 
 ### Knowledge and Reasoning service
 Watson Assistant applications automate a task without requiring the user to ask for help.  Using the Knowledge and Reasoning service, any service, device or sensor can be used to anticipate a user's needs, understand the context of their activity, the space around them and suggest entertaining or helpful experiences.  The Knowledge and Reasoning service allows objects rules to invoke expertise proactively to address a user's needs.  The Knowledge and Reasoning service includes:
@@ -56,7 +56,7 @@ Watson Assistant applications automate a task without requiring the user to ask 
 By default, IBM will provide a set of real world objects you can start with.  The Knowledge and Reasoning service is a Watson Assistant Builder service.  Learn more about the [Knowledge and Reasoning service]({{site.baseurl}}/knowledge/proactive/) [here]({{site.baseurl}}/broken_link)   
 
 ### Objects
-An object is a data structure that represents an object or concept in the physical world.  A user can interact directly with an object or through a command and control using the Voice service, Knowledge and Reasoning service objects, Personal Assistant Builder service, and corresponding expertise that are registered with the Personal Assistant Builder service. Examples of object interactions include:
+An object is a data structure that represents an object or concept in the physical world.  A user can interact directly with an object or through a command and control using the Voice service, Knowledge and Reasoning service objects, Assistant Builder service, and corresponding expertise that are registered with the Assistant Builder service. Examples of object interactions include:
 
 * A door sensor object whose door state is open or closed.
 * A temperature sensor object whose temperature state is above or below 34 degrees.
@@ -66,7 +66,7 @@ An object is a data structure that represents an object or concept in the physic
 An agent is client side code that can set an Object's state or subscribe to be notified when any object type's state changes.  Agents can be included in Expertise that have been registered in the Watson Assistant Builder service, or sensors that have been integrated with the object or other services.
 
 ### Blackboard
-The Blackboard is a concept that allows Knowledge and Reasoning services to make proactive applications and expertise using the Personal Assistant Builder service.  The Knowledge and Reasoning service includes the IBM Graph databases service.  The blackboard uses this service to represent a common shared data model that allows objects to make themselves discoverable within a space.  The Knowledge and Reasoning service includes a message queue service.  The blackboard uses this service to allow agents to publish and subscribe to object state changes. The blackboard is programmatically accessible by the Personal Assistant Builder service, objects, agents, and expertise that are registered with a Personal Assistant Builder service.
+The Blackboard is a concept that allows Knowledge and Reasoning services to make proactive applications and expertise using the Assistant Builder service.  The Knowledge and Reasoning service includes the IBM Graph databases service.  The blackboard uses this service to represent a common shared data model that allows objects to make themselves discoverable within a space.  The Knowledge and Reasoning service includes a message queue service.  The blackboard uses this service to allow agents to publish and subscribe to object state changes. The blackboard is programmatically accessible by the Assistant Builder service, objects, agents, and expertise that are registered with a Assistant Builder service.
 
 ### Cognitive Profile service
 The Cognitive Profile service enables expertise to be personal.  These capabilities will soon be accessible by developers programmatically through Rest APIs.  Learn more about the Cognitive Profile service [here (not yet available)]({{site.baseurl}}/broken_link)  
@@ -74,7 +74,7 @@ The Cognitive Profile service enables expertise to be personal.  These capabilit
 ## Expertise
 An expertise is an atomic reusable program for a single domain that allows a customer to experience or automate a task in a more intuitive proactive, personal, and human way by using a device interaction like voice, texting, presence, or other gestures.  Expertise provide end user value without requiring data or expertise from other companies' services.  Expertise can be generic or specialized, such as “Order a pizza” vs “Order Domino’s Pizza”.  A user's personal preferences and information is only shared with the other expertise they use and with the data access permissions the user allows when using an application. Learn more about the expertise [here]({{site.baseurl}}/broken_link)   
 
-Watson Assistant application developers can create new expertise or use existing expertise to fulfill a user's needs.  Applications built with the Watson Assistant Builder can remember a user's journey in the physical and virtual world.  Learn more about the Personal Assistant Builder service [here]({{site.baseurl}}/broken_link)   
+Watson Assistant application developers can create new expertise or use existing expertise to fulfill a user's needs.  Applications built with the Watson Assistant Builder can remember a user's journey in the physical and virtual world.  Learn more about the Assistant Builder service [here]({{site.baseurl}}/broken_link)   
 
 ## Application
 An application assembles client applications, expertise, and Knowledge and Reasoning rules and objects that when instantiated enable a delightful personal experience within the context of an cognitive space by effortlessly connecting a user with the choices they have made. These choices include the expertise that are included in the application and that they add to their allow in their user journey. Applications built with the Watson Assistant Builder can anticipate a user's needs and suggests actions before, during and after their user journey.  Both the application and the expertise remember's a users past experiences and data.  Expertise do not access other expertise user data directly. Watson Assistant applications instead subscribe and reason about object in a space that then trigger registered expertise to active proactively. IBM has created the IBM Watson Hotel Spaces application using the Watson Assistant Builder.
@@ -105,15 +105,15 @@ The application developer typically performs the following tasks:
 Adminstrates users, applications, expertise, services and devices. He also monitors applications and expertise availability and log files for problems.
 
 ## Interaction patterns
-User ->  Device/Object -> Device/Object Gateway -> Voice service -> Personal Assistant Builder service -> Watson services -> expertise services
+User ->  Device/Object -> Device/Object Gateway -> Voice service -> Assistant Builder service -> Watson services -> expertise services
 
 ### An example interaction sequence ( without proactiveness )
 1. User -> Speaks the words “unlock the conference room door”
 2. Device - Sends the utterance to the Voice service that converts utterance from speech to text using the Watson Speech to text service.
-3. Voice service -> Sends utterance text to Personal Assistant Builder service to determines Intent.
-4. Personal Assistant Builder service -  Using the token id determines the user, context and required expertise needed to resolve the request. Depending on the need will send additional contextual information and enriched utterance text
+3. Voice service -> Sends utterance text to Assistant Builder service to determines Intent.
+4. Assistant Builder service -  Using the token id determines the user, context and required expertise needed to resolve the request. Depending on the need will send additional contextual information and enriched utterance text
 5. Watson service ->  Watson Conversation service determines the users intent and if it can respond with an answer or other action to resolve the request.  The actions may invoking other expertise. In cases where it can’t it may request more information from the user.  It sends the text and status back.
-6. Personal Assistant Builder service -  Collects all the responses from all the expertise.  This may include responses from other expertise to achieve a solution to the user’s task to unlock the door.   Sends response utterance text to the smart speaker or client application.  Sends action to unlock the door to the internet connected lock in the door.
+6. Assistant Builder service -  Collects all the responses from all the expertise.  This may include responses from other expertise to achieve a solution to the user’s task to unlock the door.   Sends response utterance text to the smart speaker or client application.  Sends action to unlock the door to the internet connected lock in the door.
 7.  Voice service - Converts the text response to speech wav file that is sent to the user.
 8.  User or Object - User receives a response that the door is being unlocked and the door receives the unlock signal from the expertise.
 
