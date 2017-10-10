@@ -23,7 +23,7 @@ Whatever type of application you are building, be it a mobile application, web a
 
 ## Summary
 
-You'll create, or reuse, Expertise to make your personal assistant intelligent.  You'll create Agents to act on changes in the Knowledge component to proactively prompt or do things for your users.  You'll create Rules to limit when particular Agents act.  Expertise, Agents and Rules, together with information collected and maintained in the Knowledge component, will give you a powerful and proactive assistant for your cognitive application. 
+You'll create, or reuse, Expertise to make your application intelligent.  You'll create Agents to act on changes in the Knowledge component to proactively prompt or do things for your users.  You'll create Rules to limit when particular Agents act.  Expertise, Agents and Rules, together with information collected and maintained in the Knowledge component, will give you a powerful and proactive assistant for your cognitive application. 
 
 ![Watson Assistant Based Application]({{site.baseurl}}/images/wpa_overview2.png)
 
