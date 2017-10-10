@@ -1,5 +1,5 @@
 ---
-title: Assistant Core
+title: Conversation 
 weight: 20
 ---
 
@@ -41,4 +41,4 @@ These APIs are used to help you associate and validate the associations between 
 The Healthcheck APIs allow you to quickly tell if a single or a group of expertise are available.
 
 
->**What next?**  Learn about the [Knowledge Store SDK]({{site.baseurl}}/understand-service/knowledge-store)
+>**What next?**  Learn about the [Knowledge component APIs and SDK]({{site.baseurl}}/understand-service/knowledge-store)

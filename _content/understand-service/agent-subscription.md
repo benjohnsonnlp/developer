@@ -1,5 +1,5 @@
 ---
-title: Agent Subscription service
+title: Reasoning 
 weight: 40
 ---
 
