@@ -1,6 +1,6 @@
 ---
 title: Accessing the Watson Assistant Builder service
-weight: 10
+weight: 20
 ---
 ## Register for the Watson Assistant Builder service
 The Watson Assistant Builder service is hosted on Bluemix and is available right now in beta.  Access requests are reviewed and approved by the Watson Assistant Builder service administrator.   
