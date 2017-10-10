@@ -2,28 +2,29 @@
 title: Overview
 weight: 10
 ---
-![Watson Assistant Builder ]({{site.baseurl}}/images/wpa_overview.png)
+![Watson Assistant Components]({{site.baseurl}}/images/wpa_overview.png)
+
+
+## The Conversation component
+
+The Conversation component is the component you will interact with the most in the beginning.  The primary responsibility of the Conversation component is to route your users' utterance (in text form) to the "correct" Expertise that should handle it.  Expertise are the main pieces of software you will develop in order to produce a cognitive application.  Expertise use natural language processing tools, like Watson Conversation Service, to determine the intent of your users' utterance and handle the request appropriately.  The Conversation component routes the utterance based on a confidence score returned by each expertise and information on the context.  The next page will give you an overview of the Conversation component APIs you'll use to register your expertise and you'll learn what it takes to create Expertise in a later section.
+
+## The Knowledge component
+
+The Knowledge component is used to store world objects and information about those objects.  The Expertise you develop will create and modify objects in the Knowledge component using the REST API or a NodeJS SDK.  The Conversation component will also create and modify information in the Knowledge component based on the context passed to the Conversation component from your application/solution.  A later page will give you an overview of the Knowledge component NodeJS SDK and you'll get hands-on with a tutorial in a later section. 
+
+## The Reasoning component
+
+The Reasoning component handles subscriptions to changes in the Knowledge Store objects and publishes notification events to Agents.  Agents are the primary pieces of software you will develop in order to give your cognitive application proactivity.  You'll also create Rules, using the Reasoning NodeJS SDK or REST API, to limit and focus the event notifications to your Agents.  Agents can also create and modify objects in the Knowledge component.  A later page will give you an overview of the Reasoning APIs and you'll learn how to create Rules and Agents using the NodeJS SDK in a tutorial.
 
 ## Your Application
 
-Whatever type of application you are building, be it a mobile application, web application or an integrated hardware and software solution, requests from your users need to be converted into text and sent to the Watson Assistant Builder Core using the `converse` HTTP REST API.  In this beta, the Builder service doesn't include Speech-to-Text conversion services, so this ability will have to be provided by your application services.  After sending the users' utterance to the core, your application will receive a JSON reply that includes, along with JSON context data, the textual reply for you to then show, or speak to your user.
-
-## The Builder Core
-
-The Watson Assistant Builder Core is the service you will interact with the most in the beginning.  The primary responsibility of the Builder Core is to route your users' utterance (in text form) to the "correct" Expertise that should handle it.  Expertise are the main pieces of software you will develop in order to produce a cognitive application.  Expertise use natural language processing tools, like Watson Conversation Service, to determine the intent of your users' utterance and handle the request appropriately.  The Core routes the utterance based on a confidence score returned by expertise along with information on the context.  The next page will give you an overview of the Builder Core APIs you'll use to register your expertise with the core and you'll learn what it takes to create Expertise in a later section.
-
-## The Knowledge Store
-
-The Watson Assistant Knowledge Store service is used to store world objects and information about those objects.  The Expertise you develop will create and modify objects in the Knowledge Store using a NodeJS SDK.  The Builder Core will also create and modify information in the Knowledge Store based on the context passed to the core from your application/solution.  A later page will give you an overview of the Knowledge Store NodeJS SDK and you'll get hands-on with a tutorial in a later section. 
-
-## The Agent Subscription service
-
-The Watson Assistant Agent Subscription service handles subscriptions to changes in the Knowledge Store objects and publishes notification events to Agents.  Agents are the primary pieces of software you will develop in order to give your cognitive application proactivity.  You'll also create Rules, using the Agent Subscription service NodeJS SDK, to limit and focus the event notifications to Agents.  Agents can also create and modify objects on the Knowledge Store.  A later page will give you an overview of the Agent SDK and you'll learn how to create Rules and Agents using a tutorial in a later section.
+Whatever type of application you are building, be it a mobile application, web application or an integrated hardware and software solution, requests from your users need to be converted into text and sent to the Conversation component using the `converse` HTTP REST API.  In this beta, Watson Assistant doesn't include Speech-to-Text conversion services, so this ability will have to be provided by your application services.  After sending the users' utterance to Conversation component, your application will receive a JSON reply that includes, along with JSON context data, the textual reply for you to then show, or speak to your user.
 
 ## Summary
 
-You'll create, or reuse, Expertise to make your personal assistant intelligent.  You'll create Agents to act on changes in the Knowledge Store to proactively prompt or do things for your users.  You'll create Rules to limit when particular Agents act.  Expertise, Agents and Rules, together with information collected and maintained in the Knowledge Store, will give you a powerful and proactive personal assistant for your cognitive application. 
+You'll create, or reuse, Expertise to make your personal assistant intelligent.  You'll create Agents to act on changes in the Knowledge component to proactively prompt or do things for your users.  You'll create Rules to limit when particular Agents act.  Expertise, Agents and Rules, together with information collected and maintained in the Knowledge component, will give you a powerful and proactive personal assistant for your cognitive application. 
 
-![Watson Assistant Builder final]({{site.baseurl}}/images/wpa_overview2.png)
+![Watson Assistant Based Application]({{site.baseurl}}/images/wpa_overview2.png)
 
 >**What next?**  Learn more about the [Builder Core APIs]({{site.baseurl}}/understand-service/core) 
