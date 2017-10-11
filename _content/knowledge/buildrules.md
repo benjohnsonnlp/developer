@@ -1,3 +1,4 @@
+// remove this line to include this page in the sidebar
 ---
 title: Build your first rule
 weight: 20
