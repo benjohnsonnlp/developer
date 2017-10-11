@@ -8,9 +8,9 @@ Expertise use a Natural Language Understanding (NLU) engine to understand the wh
 
 The Watson Assistant Builder uses the same natural language concepts as the Watson services. To learn more see the following references:
 
-*  [Intents](https://www.ibm.com/watson/developercloud/doc/conversation/intents.html)
-*  [Entities](https://www.ibm.com/watson/developercloud/doc/conversation/entities.html)
-*  [Dialogs](https://www.ibm.com/watson/developercloud/doc/conversation/dialog-build.html)
+*  [Intents](https://console.bluemix.net/docs/services/conversation/intents.html#defining-intents)
+*  [Entities](hhttps://console.bluemix.net/docs/services/conversation/entities.html#defining-entities)
+*  [Dialogs](https://console.bluemix.net/docs/services/conversation/dialog-build.html#dialog-build)
 
 
 To get some ideas on the kinds of expertise that are available and you can build with the Watson Assistant Builder review the [Git repository]({{site.baseurl}}/broken_link).  This documentation also describes how to create [expertise]({{site.baseurl}}/expertise/build-expertise/) if you don't find what you need in the [Expertise Github repository library]({{site.baseurl}}/broken_link).
