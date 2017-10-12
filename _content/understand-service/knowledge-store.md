@@ -5,6 +5,8 @@ weight: 30
 
 ## Overview
 
+When writing a piece of software that interacts with the Watson Assistant, you can access a knowledge store that is shared by all components of the Assistant.  Data in this store is represented as objects and relations.  To use a metaphor from object-oriented programming, objects contain fields.  These fields can be literal values (attributes in a JSON document) or references (relations to other objects).
+
 The Knowledge component of the Watson Assistant has a set of APIs that work with a graph database to retrieve, create, update and delete objects, as well as, create, update and delete relations between those objects.  
 
 While the REST APIs can be used directly, a NodeJS SDK is also available.
