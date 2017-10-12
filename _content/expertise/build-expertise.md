@@ -12,7 +12,7 @@ This page will walk you through the first phase of building your first expertise
 Make sure you have already [setup your local development environment]({{site.baseurl}}/expertise/setup-local-dev-env/)
 
 ### Step 1: Fork the boilerplate
-1. Go to  [https://github.com/Watson-Personal-Assistant/ExpertiseBoilerPlateRemote](https://github.com/Watson-Personal-Assistant/ExpertiseBoilerPlateRemote).
+1. Go to  [https://github.com/Watson-Personal-Assistant/ExpertiseBoilerPlateRemote]({{site.baseurl}}/broken_link).
 2. Click the gray **Fork** button in the top right corner.
 
 ### Step 2: Clone your fork of the boilerplate
@@ -20,7 +20,7 @@ Make sure you have already [setup your local development environment]({{site.bas
 2. Copy the `https` path.
 3. Using the Terminal app, do command
 
-    `git clone https://github.com/Watson-Personal-Assistant/ExpertiseBoilerPlateRemote`
+    `git clone your-github-url`
 
 ### Step 3: Install the node dependencies
 1. Change directory into your ExpertiseBoilerPlateRemote project directory
